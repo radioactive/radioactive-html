@@ -1,6 +1,6 @@
 {
   "name": "radioactive-html",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "lib/core.js",
   "dependencies": {
